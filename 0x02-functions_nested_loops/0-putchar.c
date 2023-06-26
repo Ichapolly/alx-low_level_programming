@@ -2,7 +2,7 @@
 
 /**
 
- * main - print _putchar
+ * main - prints _putchar
 
  * is written by mbah
 

@@ -1,4 +1,7 @@
 #include "main.h"
+
+char *_strncat(char *, char *, int);
+
 /**
  * _strncpy - copy a string
  * @dest: input value

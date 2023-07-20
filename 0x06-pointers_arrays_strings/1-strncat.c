@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <string.h>
 char *_strncat(char *, char *, int);
 
 /**
